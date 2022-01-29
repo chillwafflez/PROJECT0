@@ -16,7 +16,7 @@ public class ExpProgram {
 
         if (remainder == 0) { // if the first int is evenly divisible by the second int
 
-            System.out.println(first + " is evenly divisible by " + second);
+            System.out.println(first + " is evenly divisible by " + second + "cool");
         } else // if the first int is not evenly divisible by the second int
             System.out.println(
                     first + " is not evenly divisible by " + second + " , the remainer is " + remainder);
