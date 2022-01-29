@@ -19,7 +19,8 @@ public class ExpProgram {
             System.out.println(first + " is evenly divisible by " + second + "cool");
         } else // if the first int is not evenly divisible by the second int
             System.out.println(
-                    first + " is not evenly divisible by " + second + " , the remainer is " + remainder);
+                    first + " is not evenly divisible by " + second + " , the remainer is " + remainder
+                            + "AWESOMEEEEE");
 
         keyboard.close();
     } // end main
